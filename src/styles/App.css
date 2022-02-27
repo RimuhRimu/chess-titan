@@ -1,0 +1,25 @@
+table {
+    margin:auto;
+}
+
+.active {
+    background:#0000ff;
+}
+
+.highligh {
+    background:#ffee00;
+}
+
+td {
+    width:100px;
+    height:100px;
+    background:#aabbff;
+}
+
+.whites {
+    color:#fff;
+}
+
+.blacks {
+    color:#383838;
+}
